@@ -1,5 +1,7 @@
 # thumbnail-polaroid-folders
 
+<img width="467" height="165" alt="2026-09-20_12-51" src="https://github.com/user-attachments/assets/ac8ae3a8-20a0-44f2-bda6-745640b05d55" />
+
 A modular background thumbnail generator that turns your directory icons into dynamic 3D Polaroid-style cascades of the images, videos, gifs, and SVGs contained inside them.
 
 Designed with a decoupled architecture, the heavy image processing engine is completely independent of the file manager, making it adaptable to multiple desktop environments.

@@ -6,6 +6,9 @@ A modular background thumbnail generator that turns your directory icons into dy
 
 Designed with a decoupled architecture, the heavy image processing engine is completely independent of the file manager, making it adaptable to multiple desktop environments.
 
+## AI Disclosure
+This tool was completely made by AI, using google's Gemini 3.1 pro.
+
 ## Features
 * Dynamically extracts thumbnails from Images, Videos (`ffmpeg`), gifs, and SVGs.
 * Fetches natively cached Nemo thumbnails when available to save processing time.

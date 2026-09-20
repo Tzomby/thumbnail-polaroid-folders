@@ -5,6 +5,7 @@
 A modular background thumbnail generator that turns your directory icons into dynamic 3D Polaroid-style cascades of the images, videos, gifs, and SVGs contained inside them.
 
 Designed with a decoupled architecture, the heavy image processing engine is completely independent of the file manager, making it adaptable to multiple desktop environments.
+Made for linux mint, nemo file explorer. I might add support for other file explorers in the future.
 
 ## AI Disclosure
 This tool was completely made by AI, using google's Gemini 3.1 pro.

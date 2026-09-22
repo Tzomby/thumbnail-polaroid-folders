@@ -36,7 +36,7 @@ sudo apt install ffmpeg imagemagick librsvg2-bin python3-venv python3-nemo
 1. Clone this repository:
 
 ```
-git clone https://github.com/YOUR_USERNAME/thumbnail-polaroid-folders.git
+git clone https://github.com/tzomby/thumbnail-polaroid-folders.git
 cd thumbnail-polaroid-folders
 
 ```
